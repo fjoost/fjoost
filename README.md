@@ -1,18 +1,18 @@
 <h1>Hi everyone! </h1>
 
-<p>I'm Fernando Joost. I'm Computer Science Engineer and Developer from  <b>Coyhaique, Patagonia, Chile.</b> <img src="./chile.svg"width="25"/> </p>
+<p>I'm Fernando Joost. I'm Computer Science Engineer and Full Stack Developer from  <b>Coyhaique, Patagonia, Chile.</b> <img src="./chile_flag.svg"width="25"/> </p>
 
 <hr>
 
-<h3>Some technologies that I have used to make Backend</h3>  
+<h3>Some technologies that I have used to make Backend</h3>
 
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-rgb(249 63 49 / 1)?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-white?style=flat-square&logo=Nginx&logoColor=green" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-0e3a2c?style=flat-square&logo=Django&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-Github-white?style=flat-square&logo=Github&logoColor=black" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=Express&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31628a?style=flat-square&logo=PostgreSQL&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/-Gitlab-white?style=flat-square&logo=Gitlab&logoColor=orangered" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white" />
 </p>
 
 <h3>Some technologies that I have used to make Frontend</h3>
@@ -40,4 +40,3 @@
 <hr>
 
 <!-- <p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, February 21, 10:16 AM GMT-3<br /></p> -->
-
