@@ -8,7 +8,7 @@
 
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-rgb(249 63 49 / 1)?style=flat-square&logo=Laravel&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-0e3a2c?style=flat-square&logo=Django&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-0e3a2c?style=flat-square&logo=Go&logoColor=lightblue" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=Express&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31628a?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white" />
@@ -19,13 +19,12 @@
 <p>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-white?style=flat-square&logo=tailwindcss&logoColor=36b3ec" />
   <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-06c180?style=flat-square&logo=Vue.js&logoColor=green" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-rgb(109 15 235)?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-00dcff?style=flat-square&logo=React&logoColor=white" />
 </p>
 
 <h3>Favorite language to write code 👨🏻‍💻 </h3>
 <p>
-  <img alt="JS" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-F7DF1E?style=flat-square&logo=php&logoColor=black" />
 </p>
 
 <h3>Follow me now!</h3>
