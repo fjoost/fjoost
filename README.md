@@ -24,7 +24,7 @@
 
 <h3>Favorite language to write code 👨🏻‍💻 </h3>
 <p>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-F7DF1E?style=flat-square&logo=php&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP?style=flat-square&logo=php&logoColor=black" />
 </p>
 
 <h3>Follow me now!</h3>
