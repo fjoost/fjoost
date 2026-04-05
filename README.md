@@ -1,6 +1,6 @@
 <h1>👋🏻 Hi everyone! </h1>
 
-<p>I'm Fernando Joost. I'm Computer Science Engineer and Full Stack Developer from  <b>Coyhaique, Patagonia, Chile.</b> <img src="./chile_flag.svg"width="26"/> </p>
+<p>I'm Fernando Joost. I'm Computer Science Engineer and Backend Developer from  <b>Coyhaique, Patagonia, Chile.</b> <img src="./chile_flag.svg"width="26"/> </p>
 
 <hr>
 
@@ -24,7 +24,7 @@
 
 <h3>Favorite language to write code 👨🏻‍💻 </h3>
 <p>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP?style=flat-square&logo=php&logoColor=black" />
+  <img alt="TS" src="https://img.shields.io/badge/-TS?style=flat-square&logo=php&logoColor=black" />
 </p>
 
 <h3>Follow me now!</h3>
