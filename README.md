@@ -1,8 +1,19 @@
-<h1>👋🏻 Hi everyone! </h1>
-<p>I'm Fernando Joost — Computer Science Engineer and Backend Developer based in <b>Santiago, Chile</b> <img src="./chile_flag.svg" width="26"/>. I design and build scalable backend systems, RESTful APIs, and service-oriented architectures with a strong focus on clean code, testing, and reliability.</p>
+<h1>👋🏻 Hi everyone!</h1>
+<p>I'm Fernando Joost — Computer Science Engineer and Backend Developer based in <b>Santiago, Chile</b> <img src="./chile_flag.svg" width="26"/>. I design and build scalable backend systems, RESTful APIs, and service-oriented architectures with a strong focus on clean code, testing, and reliability — now extending into AI agents and agentic systems.</p>
+
+<p>🦉 Currently preparing for <a href="https://impactlab.benditaia.cl" target="_blank"><b>Claude Impact Lab Chile 2026</b></a> as an AI Builder — civic AI for financial inclusion.</p>
+
 <hr>
 
-<h3>Backend Stack 🦾</h3>
+<h3>Currently Learning — AI & Agentic Stack 🤖</h3>
+<p>
+  <img alt="Claude API" src="https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="MCP" src="https://img.shields.io/badge/-MCP-1F1F1F?style=flat-square&logoColor=white" />
+  <img alt="Agent SDK" src="https://img.shields.io/badge/-Agent_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+<h3>Backend Foundation 🦾</h3>
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -25,7 +36,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-<h3>Currently Focused On 🚀</h3>
+<h3>Also Exploring 🚀</h3>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
